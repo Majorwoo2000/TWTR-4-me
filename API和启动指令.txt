@@ -1,0 +1,10 @@
+BEARER_TOKEN:↓
+AAAAAAAAAAAAAAAAAAAAAFkI3AEAAAAAvxJAUMizbugAcl28sToyE9eEP8Y%3DuDb3vdNPusaqxISTSxTLqDQXG8Cyq8pjlz1yUflJIvWJ3R2tXL
+
+
+运行脚本：
+python twitter_scraper_and_visualize.py
+
+python data_analysis_and_trend_forecasting.py
+
+python your_script.py
